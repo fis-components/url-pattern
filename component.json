@@ -1,0 +1,10 @@
+{
+    "name": "url-pattern",
+    "description": "easier than regex string matching patterns for urls, domains, filepaths and other strings. turn strings into data or data into strings.",
+    "repos": "https://github.com/snd/url-pattern.git",
+    "main": "lib/url-pattern",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.10.2"
+}
